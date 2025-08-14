@@ -1,2 +1,2 @@
 # IACSDProject
-Know it Project *Expense tracking system : SpendWise*
+Project *Expense tracking system : SpendWise*
